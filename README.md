@@ -1,0 +1,1 @@
+This project is an exercise that's part of The Odin Project curriculum to reconstruct the aesthetics of the google homepage.
